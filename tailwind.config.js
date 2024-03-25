@@ -12,6 +12,11 @@ export default {
       'offwhite': 'rgba(255, 255, 255, 0.75)',
       'white': '#FFF',
       'offwhitebg': '#f2f2f2',
+    },
+
+    fontFamily: {
+      'shoulders': '"big Shoulders Display"',
+      'lexend': '"Lexend Deca"'
     }
   },
   plugins: [],
